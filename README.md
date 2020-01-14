@@ -1,5 +1,5 @@
 # 2016
-Foto Angkatan Tahun 2016
+Foto Angkatan Tahun 2016 (foto formal)
 
 Silahkan taruh di folder **kecil** dengan nama file NPM.jpg (.jpg harus huruf kecil semua). Contoh 113040087.jpg
 
